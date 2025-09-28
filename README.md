@@ -1,7 +1,10 @@
-**Awesome Prompts for Product Managers**
-
-Stop reinventing the wheel. Automate your entire Product Management workflow with expert-level AI prompts.
-
+<p align="center">
+<h1 align="center">Awesome Prompts for Product Managers</h1>
+<p align="center">
+<em>Stop reinventing the wheel. Automate your entire Product Management workflow with expert-level AI prompts.</em>
+<br />
+</p>
+</p>
 
 
 🚀 **Overview**: **Your PM Co-pilot, Supercharged**
