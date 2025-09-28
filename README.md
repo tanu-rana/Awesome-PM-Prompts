@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">Awesome Prompts for Product Managers</h1>
 <p align="center">
-<em>Stop reinventing the wheel. Automate your entire Product Management workflow with expert-level AI prompts.</em>
+<em>Stop reinventing the wheel. Automate your Product Management workflows with expert-level, battle-tested AI playbook.</em>
 <br />
 </p>
 </p>
