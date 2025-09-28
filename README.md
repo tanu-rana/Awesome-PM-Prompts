@@ -148,6 +148,9 @@ This phase translates user insights and opportunities into a concrete plan for d
 
 Pull requests are welcome! If you have new prompt templates, PM frameworks, or enhancements, please submit your ideas via PR or open an issue.
 
+<br />
+<br />
+
 <h2 align="center">📜 License</h2>
 MIT License
 
