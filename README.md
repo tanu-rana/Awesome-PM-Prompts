@@ -126,6 +126,7 @@ This phase translates user insights and opportunities into a concrete plan for d
 **Brainstorm New Features**: Facilitates a structured brainstorming session to generate, analyze, and prioritize new feature ideas for an existing product, culminating in a detailed, actionable shortlist and a machine-readable JSON artifact.
 <br />
 <br />
+<br />
 
 
 <h2 align="center">🎯 Who Should Use This?</h2>
