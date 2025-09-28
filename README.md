@@ -64,9 +64,10 @@ Input the responses from mvp-feature-prioritization.txt, product-roadmap-generat
 <h2 align="center">📈 Workflow: The Recommended Order of Prompts</h2>
 For a comprehensive product development lifecycle, from initial idea to execution, it's recommended to use the prompts in the following logical order. This workflow ensures that each step builds upon the insights from the previous one.
 <br />
+<br />
+<br />
 
-
-**Phase 1: Strategic Foundation & Market Analysis (The "Why")**
+<h2 align="center">Phase 1: Strategic Foundation & Market Analysis (The "Why")</h2>
 
 This phase is about the big picture: understanding the macro environment, the industry, the market size, and defining a robust business strategy to win.
 
@@ -95,7 +96,7 @@ This phase is about the big picture: understanding the macro environment, the in
 <br />
 <br />
 
-**Phase 2: User & Problem Discovery (The "Who" and "What")**
+<h2 align="center">Phase 2: User & Problem Discovery (The "Who" and "What")</h2>
 
 This phase focuses on deeply understanding the target user, their needs, pains, and the core problems to be solved.
 
@@ -110,7 +111,7 @@ This phase focuses on deeply understanding the target user, their needs, pains, 
 <br />
 <br />
 
-**Phase 3: Solution Definition & Execution Planning (The "How")**
+<h2 align="center">Phase 3: Solution Definition & Execution Planning (The "How")</h2>
 
 This phase translates user insights and opportunities into a concrete plan for development and delivery.
 
