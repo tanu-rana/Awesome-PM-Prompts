@@ -3,6 +3,7 @@
 Stop reinventing the wheel. Automate your entire Product Management workflow with expert-level AI prompts.
 
 
+
 🚀 **Overview**: **Your PM Co-pilot, Supercharged**
 
 Tired of the endless PM grind? Stop drowning in meetings, backlogs, and docs. Start building.
@@ -10,6 +11,7 @@ Tired of the endless PM grind? Stop drowning in meetings, backlogs, and docs. St
 Awesome-PM-Prompts is your unfair advantage. This is a complete, battle-tested operating system for product managers who want to 10x their impact. We've encoded the playbooks of world-class strategists (MBB consultants, Marty Cagan, Teresa Torres, Roger Martin) into a system that transforms any LLM into your personal Chief of Staff.
 
 Go from a blank page to a launch-ready strategy in a fraction of the time. Automate the grunt work. Reclaim your calendar. Ship products that customers love.
+
 
 
 ✨ **What’s Inside: An Entire PM Lifecycle, Automated**
@@ -21,6 +23,7 @@ Go from a blank page to a launch-ready strategy in a fraction of the time. Autom
 **Build & Ship with Confidence**: Go from a prioritized MVP backlog to a theme-based product roadmap, a full technical system design, and a ready-to-code PRD—all with a few clicks.
 
 **Simulate the Future**: Use the Business Strategy Simulator to run multi-round "war games" against competitors, stress-test your strategy, and identify risks before they happen.
+
 
 
 🤔 **How to Use**:
@@ -40,6 +43,7 @@ Go from a blank page to a launch-ready strategy in a fraction of the time. Autom
 However, the prompts can also be used individually, provided you supply all the necessary details and context for the AI to base its research and responses on.
 
 
+
 🤔 **Sample Workflow**:
 
 Copy any prompt i.e. business-strategy.txt → Paste into ChatGPT/Gemini/Claude/Perplexity → Enter details about your business or product → Generate product strategies in minutes.
@@ -47,6 +51,7 @@ Copy any prompt i.e. business-strategy.txt → Paste into ChatGPT/Gemini/Claude/
 Use the multiple competitive-analysis prompts (1-5) → Get a comprehensive competitive analysis report that collates all results.
 
 Input the responses from mvp-feature-prioritization.txt, product-roadmap-generator.txt and technical-system-designer.txt into the prd-generator.txt prompt → Auto-draft your next PRD.
+
 
 
 📈 **Workflow: The Recommended Order of Prompts**:
@@ -81,6 +86,7 @@ This phase is about the big picture: understanding the macro environment, the in
 **Business Strategy Simulator Sandbox**: Runs an autonomous, multi-round business "war game" by role-playing as the user's startup and competitor CEOs, culminating in a strategic summary of the market simulation's outcomes.
 
 
+
 **Phase 2: User & Problem Discovery (The "Who" and "What")**
 
 This phase focuses on deeply understanding the target user, their needs, pains, and the core problems to be solved.
@@ -92,6 +98,7 @@ This phase focuses on deeply understanding the target user, their needs, pains, 
 **Opportunity Solution Tree Mapping**: AI acts as a product discovery coach, to transform a business outcome and user research into an Opportunity Solution Tree, mapping user needs to potential solutions and experiments.
 
 **User Journey Mapping**: Creates a detailed User Journey Map by breaking down a user's goal into stages and mapping their actions, thoughts, feelings, and pain points at each step.
+
 
 
 **Phase 3: Solution Definition & Execution Planning (The "How")**
@@ -109,6 +116,7 @@ This phase translates user insights and opportunities into a concrete plan for d
 **Brainstorm New Features**: Facilitates a structured brainstorming session to generate, analyze, and prioritize new feature ideas for an existing product, culminating in a detailed, actionable shortlist and a machine-readable JSON artifact.
 
 
+
 **🎯 Who Should Use This?**:
 
 **Product Managers**: 10x your output, automate your documentation, and focus on what actually matters: building great products.
@@ -118,6 +126,8 @@ This phase translates user insights and opportunities into a concrete plan for d
 **Startup Founders & Teams**: Go from idea to a fully-fleshed-out, investor-ready strategy and execution plan.
 
 **Product Consultants**: Save hundreds of hours with reusable, best-in-class templates for every client engagement.
+
+
 
 
 **🤝 Contributing**:
